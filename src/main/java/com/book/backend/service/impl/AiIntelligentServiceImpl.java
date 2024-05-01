@@ -57,9 +57,9 @@ public class AiIntelligentServiceImpl extends ServiceImpl<AiIntelligentMapper, A
 
     // todo 图书管理系统 1.2 版本设置认证信息 讯飞星火
     {
-        sparkClient.appid = "98e029e2";
-        sparkClient.apiSecret = "YmRlMGRhODE1MmU5Yzc4ZmU0Mzc0Yjg0";
-        sparkClient.apiKey = "386caa019c220602cfe3826d048e6acf";
+        sparkClient.appid = "";
+        sparkClient.apiSecret = "";
+        sparkClient.apiKey = "";
     }
 
     //    @Override
