@@ -12,7 +12,7 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
 @MapperScan("com.book.backend.mapper")
 @EnableTransactionManagement
 public class VueBookBackendApplication {
-
+    
     public static void main(String[] args) {
         SpringApplication.run(VueBookBackendApplication.class, args);
     }
